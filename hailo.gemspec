@@ -23,5 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'bundler', '~> 1.5'
   spec.add_development_dependency 'rake', '~> 10.0', '>= 10.0.0'
   spec.add_development_dependency 'rspec', '~> 2.6'
-  spec_add_development_dependency 'hashie', '~> 3.3.1'
+  spec.add_development_dependency 'hashie', '~> 3.3'
 end
